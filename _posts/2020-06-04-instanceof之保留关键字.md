@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      instanceof和保留关键字
+title:      instanceof 和保留关键字
 subtitle:   
 date:       2020-06-04
 author:     298
@@ -15,7 +15,7 @@ tags:
 
 
 
-### instanceof是java的保留关键字。它的作用是来测试左边的对象是否是它右边的实例，返回boolean的数据类型。
+### instanceof 是java的保留关键字。它的作用是来测试左边的对象是否是它右边的实例，返回boolean的数据类型。
 
 
 
