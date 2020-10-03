@@ -98,20 +98,13 @@ service-worker: true
 
 # Friends
  friends: [
-     {
-         title: "白",
-         href: "https://210828.github.io/"
-     }
-#    ,{
-#         title: "简书·BY",
-#         href: "http://www.jianshu.com/u/e71990ada2fd"
-#     },{
-#         title: "Apple",
-#         href: "https://apple.com"
-#     },{
-#         title: "Apple Developer",
-#         href: "https://developer.apple.com/"
-#     }
- ]
+    {
+        title: "白",
+        href: "https://210828.github.io/"
+    },{
+    title:"棒槌",
+    href:"https://libangchui.github.io/"
+    }
+]
 
 theme: jekyll-theme-minimal
