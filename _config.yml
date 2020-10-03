@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
- friends: [
+friends: [
     {
         title: "白",
         href: "https://210828.github.io/"
