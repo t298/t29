@@ -97,11 +97,12 @@ service-worker: true
 
 
 # Friends
-# friends: [
-#     {
-#         title: "WY",
-#         href: "http://zhengwuyang.com"
-#     },{
+ friends: [
+     {
+         title: "白",
+         href: "https://210828.github.io/"
+     }
+#    ,{
 #         title: "简书·BY",
 #         href: "http://www.jianshu.com/u/e71990ada2fd"
 #     },{
@@ -111,6 +112,6 @@ service-worker: true
 #         title: "Apple Developer",
 #         href: "https://developer.apple.com/"
 #     }
-# ]
+ ]
 
 theme: jekyll-theme-minimal
