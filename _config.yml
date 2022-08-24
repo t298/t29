@@ -5,7 +5,8 @@ header-img: img/80056132_p0.png
 email: tian.ae@qq.com
 description: "We all live under dangerous walls!"
 keyword: "BY, BY Blog, 298的博客, github"
-url: "https://t298.github.io"          # your host, for absolute URL
+url: "https://t298.github.io"  
+搜索: "search"  # your host, for absolute URL
 # baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
