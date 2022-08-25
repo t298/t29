@@ -103,3 +103,4 @@ friends: [
 ]
 
 theme: jekyll-theme-minimal
+gem "minimal-mistakes-jekyll"
